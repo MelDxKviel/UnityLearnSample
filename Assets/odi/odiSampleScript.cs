@@ -5,7 +5,7 @@ using UnityEngine;
 public class odiSampleScript : SampleScript
 {
 
-    public TransparentModule prefab;
+    public GameObject prefab;
 
     [Range(1f, 3f)]
     public int sumCopy;
